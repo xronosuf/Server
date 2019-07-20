@@ -21,6 +21,7 @@ var shuffle = require('./shuffle');
 var feedback = require('./feedback');
 var validator = require('./validator');
 var javascript = require('./javascript');
+var timedProblems = require('./timedProblems');
 
 var connectInteractives = require('./interactives').connectInteractives;
 
